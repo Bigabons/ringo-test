@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/test-ringostat",
+      "dest": "/api/test-ringostat.js"
+    }
+  ]
+}
